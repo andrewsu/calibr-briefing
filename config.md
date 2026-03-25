@@ -23,8 +23,8 @@ Key announcements across biotech and pharma — major deals, clinical readouts, 
 
 ## Format
 Two daily episodes:
-1. **Headlines** (~3 min) — Top biotech/pharma news of the day
-2. **Spotlight** (~5 min) — Deep dive on focus area developments, connecting back to Calibr pipeline relevance where applicable
+1. **Headlines** (~3 min) — Top biotech/pharma news of the day, quick roundup
+2. **Spotlight** (~5-8 min) — Deep dive on the single most important development from focus areas or headlines. Thorough analysis: what happened, why it matters, competitive landscape, and explicit connections to the Calibr pipeline. Don't spread thin across multiple topics — go deep on one.
 
 ## Voice
 ElevenLabs Bella voice, `eleven_flash_v2_5` model

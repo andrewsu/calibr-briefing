@@ -12,6 +12,26 @@
     <atom:link href="https://raw.githubusercontent.com/andrewsu/calibr-briefing/main/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>Spotlight: Merck's $6.7B Terns Acquisition — CML, Keytruda's Patent Cliff, and Calibr Pipeline Connections</title>
+      <description>Deep dive into Merck's $6.7 billion acquisition of Terns Pharmaceuticals and its TERN-701 chronic myeloid leukemia drug. Analysis of the CML competitive landscape vs Novartis' Scemblix, Merck's oncology pipeline strategy as Keytruda faces patent expiry, and the broader Great Pharma Patent Cliff Reset driving M&amp;A. Connections to Calibr's oncology programs (sCAR-T, STING agonist, CDK2i, ADCs), Merck's parallel $20M IBD deal with Quotient Therapeutics and relevance to Calibr's CLF065 and NRF2 activator, plus implications for the hematologic oncology M&amp;A environment.</description>
+      <enclosure url="https://github.com/andrewsu/calibr-briefing/raw/main/episodes/2026-03-25-merck-terns-spotlight.mp3" length="5611145" type="audio/mpeg"/>
+      <guid>2026-03-25-merck-terns-spotlight</guid>
+      <pubDate>Wed, 25 Mar 2026 13:43:00 +0000</pubDate>
+      <itunes:duration>351</itunes:duration>
+      <itunes:summary>Merck acquires Terns Pharma for $6.7B for CML drug TERN-701. Competitive landscape analysis, Keytruda patent cliff context, parallel IBD deal, and connections to Calibr's oncology and IBD pipeline programs.</itunes:summary>
+    </item>
+
+    <item>
+      <title>Daily Headlines: Merck-Terns $6.7B CML Deal, Sarepta siRNA Data, Novo Triple-G Diabetes Win, BrightGene Oral Obesity</title>
+      <description>Today's top biotech and pharma headlines: Merck acquires Terns Pharmaceuticals for $6.7B (TERN-701 CML drug), Sarepta shares early Arrowhead siRNA data, Novo Nordisk triple-G agonist passes midphase diabetes test in China, BrightGene reports 8% weight loss at 8 weeks with oral dual agonist, Maze Therapeutics Phase 2 kidney disease data competing with Vertex, Terrestrial Bio raises $50M for GLP-1 microneedle delivery, Gilgamesh $60M psychedelics Series A, UCB $2B Atlanta biologics plant, ImmunityBio FDA warning letter, SCOTUS RICO action vs Takeda/Lilly, Abivax IBD commercial hire, and Merck-Quotient IBD drug target deal.</description>
+      <enclosure url="https://github.com/andrewsu/calibr-briefing/raw/main/episodes/2026-03-25-pharma-headlines.mp3" length="2908622" type="audio/mpeg"/>
+      <guid>2026-03-25-pharma-headlines</guid>
+      <pubDate>Wed, 25 Mar 2026 13:43:00 +0000</pubDate>
+      <itunes:duration>182</itunes:duration>
+      <itunes:summary>Biotech and pharma headlines for March 25, 2026 — Merck-Terns $6.7B deal, Sarepta siRNA data, obesity drug race updates, and major industry developments.</itunes:summary>
+    </item>
+
+    <item>
       <title>CAR-T &amp; MASH Spotlight: In Vivo CAR-T Hits Nature, FGF21 Meta-Analysis Shows Promise</title>
       <description>Deep dive into this week's in vivo CAR-T breakthroughs — including the Eyquem/Doudna Nature paper on site-specific in vivo T cell engineering and the ASH 2025 review of non-viral delivery platforms (LNPs, VLPs, polymeric nanoparticles). Plus the MASH/FGF21 landscape: a new meta-analysis of efruxifermin across 419 patients shows 39.7% fibrosis improvement vs 17.1% placebo, the Lancet publishes phase 2 data on efimosfermin alfa (once-monthly FGF21 analog), and a Gut review frames the coming era of MASH combination therapy. Connections to Calibr's sCAR-T and MASH biologic programs.</description>
       <enclosure url="https://github.com/andrewsu/calibr-briefing/raw/main/episodes/2026-03-24-cart-mash-spotlight.mp3" length="4963549" type="audio/mpeg"/>
