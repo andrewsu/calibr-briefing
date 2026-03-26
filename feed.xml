@@ -12,6 +12,26 @@
     <atom:link href="https://raw.githubusercontent.com/andrewsu/calibr-briefing/main/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>Spotlight: Allogene's Off-the-Shelf CAR-T Nears Pivotal Readout — What It Means for Calibr's sCAR-T</title>
+      <description>Deep dive into Allogene Therapeutics approaching a pivotal study readout for its allogeneic off-the-shelf CAR-T therapy in lymphoma. Analysis of the allogeneic vs. autologous vs. in vivo CAR-T landscape, how Calibr's switchable sCAR-T (CLBR001 + SWI019) with AbbVie compares, persistence and safety trade-offs, the autoimmune CAR-T opportunity, and competitive implications from the ALPHA3 and RESOLUTION trials. Context from this week's Eyquem/Doudna in vivo CAR-T Nature paper.</description>
+      <enclosure url="https://github.com/andrewsu/calibr-briefing/raw/main/episodes/2026-03-26-allogene-cart-spotlight.mp3" length="5771641" type="audio/mpeg"/>
+      <guid>2026-03-26-allogene-cart-spotlight</guid>
+      <pubDate>Thu, 26 Mar 2026 13:40:00 +0000</pubDate>
+      <itunes:duration>361</itunes:duration>
+      <itunes:summary>Allogene nears pivotal off-the-shelf CAR-T readout. Competitive landscape analysis across allogeneic, switchable (Calibr sCAR-T), and in vivo approaches. AbbVie partnership context and autoimmune CAR-T implications.</itunes:summary>
+    </item>
+
+    <item>
+      <title>Daily Headlines: Allogene CAR-T Pivotal Readout, Denali Hunter Syndrome Approval, Corcept Lifyorli, Ionis 93% Price Cut</title>
+      <description>Today's top biotech and pharma headlines: Allogene nears off-the-shelf CAR-T pivotal readout (STAT), FDA approves Denali's Avlayah for Hunter syndrome cognitive symptoms, Corcept's Lifyorli (relacorilant) approved for ovarian cancer, Ionis slashes Tryngolza price 93% to $40K ahead of label expansion, biopharma funding dropped 20% in 2025 (IQVIA), Innate Pharma ends NK cell engager, Novo Nordisk chairman faces investors with shares down 45%, Wegovy price cuts in South Africa, and Biogen-Alteogen $20M subQ delivery deal.</description>
+      <enclosure url="https://github.com/andrewsu/calibr-briefing/raw/main/episodes/2026-03-26-pharma-headlines.mp3" length="2901098" type="audio/mpeg"/>
+      <guid>2026-03-26-pharma-headlines</guid>
+      <pubDate>Thu, 26 Mar 2026 13:40:00 +0000</pubDate>
+      <itunes:duration>181</itunes:duration>
+      <itunes:summary>Biotech and pharma headlines for March 26, 2026 — Allogene CAR-T pivotal readout approaching, FDA approvals for Denali and Corcept, Ionis dramatic price cut, biopharma funding decline, and more.</itunes:summary>
+    </item>
+
+    <item>
       <title>Spotlight: Merck's $6.7B Terns Acquisition — CML, Keytruda's Patent Cliff, and Calibr Pipeline Connections</title>
       <description>Deep dive into Merck's $6.7 billion acquisition of Terns Pharmaceuticals and its TERN-701 chronic myeloid leukemia drug. Analysis of the CML competitive landscape vs Novartis' Scemblix, Merck's oncology pipeline strategy as Keytruda faces patent expiry, and the broader Great Pharma Patent Cliff Reset driving M&amp;A. Connections to Calibr's oncology programs (sCAR-T, STING agonist, CDK2i, ADCs), Merck's parallel $20M IBD deal with Quotient Therapeutics and relevance to Calibr's CLF065 and NRF2 activator, plus implications for the hematologic oncology M&amp;A environment.</description>
       <enclosure url="https://github.com/andrewsu/calibr-briefing/raw/main/episodes/2026-03-25-merck-terns-spotlight.mp3" length="5611145" type="audio/mpeg"/>
