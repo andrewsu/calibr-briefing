@@ -12,6 +12,26 @@
     <atom:link href="https://raw.githubusercontent.com/andrewsu/calibr-briefing/main/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>Spotlight: In Vivo CAR-T Reality Check — ESO-T01 Toxicity Data and What It Means for Calibr's Switchable CAR-T</title>
+      <description>Deep dive into the in vivo CAR-T landscape following Nature Medicine publication of ESO-T01 Phase 1 data showing severe toxicities in all patients (grade 3+ SAEs, CRS in 4/5) despite promising efficacy (4/5 objective responses). Analysis of the two-phase immune response unique to lentiviral in vivo delivery, new uBriGene-Cellinfinity partnership, CRISPR-based in vivo approaches, Azalea Therapeutics preclinical data, and Nature Biotechnology engineering review. Why Calibr's switchable sCAR-T (CLBR001 + SWI019) with AbbVie is uniquely positioned: built-in pharmacological off-switch addresses the exact controllability gap exposed by ESO-T01. Autoimmune CAR-T implications for titratable B-cell depletion.</description>
+      <enclosure url="https://github.com/andrewsu/calibr-briefing/raw/main/episodes/2026-03-30-invivo-cart-landscape-spotlight.mp3" length="5971843" type="audio/mpeg"/>
+      <guid>2026-03-30-invivo-cart-landscape-spotlight</guid>
+      <pubDate>Mon, 30 Mar 2026 13:44:00 +0000</pubDate>
+      <itunes:duration>373</itunes:duration>
+      <itunes:summary>In vivo CAR-T gets a reality check: ESO-T01 Phase 1 shows severe toxicities despite efficacy. New partnerships and CRISPR approaches advance the field. Why Calibr's switchable CAR-T addresses the controllability gap.</itunes:summary>
+    </item>
+
+    <item>
+      <title>Daily Headlines: Lilly-Insilico $2.75B AI Deal, Novartis $2B Excellergy, Kailera Obesity IPO, Otsuka Psychedelics, AZ COPD Win</title>
+      <description>Monday biotech and pharma headlines: Eli Lilly inks $2.75B AI drug discovery deal with Insilico Medicine, Novartis acquires Excellergy for $2B (second multi-billion deal in a week), Kailera Therapeutics files obesity IPO, Otsuka buys Transcend for $1.2B MDMA analog, AstraZeneca COPD Phase 3 dream result, FDA warns ImmunityBio over misleading Anktiva ads, CAR-T shows promise in mantle cell lymphoma, uBriGene-Cellinfinity in vivo CAR-T partnership, five EU drug approvals recommended, Biogen litifilimab CLE Phase 2 positive, Idorsia daridorexant Phase 2 results.</description>
+      <enclosure url="https://github.com/andrewsu/calibr-briefing/raw/main/episodes/2026-03-30-pharma-headlines.mp3" length="2637366" type="audio/mpeg"/>
+      <guid>2026-03-30-pharma-headlines</guid>
+      <pubDate>Mon, 30 Mar 2026 13:44:00 +0000</pubDate>
+      <itunes:duration>165</itunes:duration>
+      <itunes:summary>Biotech and pharma headlines for March 30, 2026 — Lilly's $2.75B AI deal with Insilico, Novartis $2B Excellergy buy, Kailera obesity IPO, Otsuka psychedelics acquisition, AstraZeneca COPD win, and more.</itunes:summary>
+    </item>
+
+    <item>
       <title>Spotlight: Allogene's Off-the-Shelf CAR-T Nears Pivotal Readout — What It Means for Calibr's sCAR-T</title>
       <description>Deep dive into Allogene Therapeutics approaching a pivotal study readout for its allogeneic off-the-shelf CAR-T therapy in lymphoma. Analysis of the allogeneic vs. autologous vs. in vivo CAR-T landscape, how Calibr's switchable sCAR-T (CLBR001 + SWI019) with AbbVie compares, persistence and safety trade-offs, the autoimmune CAR-T opportunity, and competitive implications from the ALPHA3 and RESOLUTION trials. Context from this week's Eyquem/Doudna in vivo CAR-T Nature paper.</description>
       <enclosure url="https://github.com/andrewsu/calibr-briefing/raw/main/episodes/2026-03-26-allogene-cart-spotlight.mp3" length="5771641" type="audio/mpeg"/>
