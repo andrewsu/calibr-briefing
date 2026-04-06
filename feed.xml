@@ -12,6 +12,26 @@
     <atom:link href="https://raw.githubusercontent.com/andrewsu/calibr-briefing/main/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>Spotlight: Beam's Base-Editing Sickle Cell Data Hits NEJM — What the Gene Therapy Surge Means for Calibr's sCAR-T Platform</title>
+      <description>Deep dive into Beam Therapeutics' NEJM publication showing risto-cel base-editing therapy eliminated severe pain crises in all 31 sickle cell patients. Analysis of the competitive gene therapy landscape (Casgevy, Lyfgenia), myeloablative conditioning challenges, and the convergence of gene editing and cell therapy innovation. Connections to Calibr's switchable CAR-T (sCAR-T) platform with AbbVie, the CD19 autoimmune program, and what AACR 2026 in San Diego may reveal for Calibr's oncology pipeline.</description>
+      <enclosure url="https://github.com/andrewsu/calibr-briefing/raw/main/episodes/2026-04-06-beam-gene-editing-spotlight.mp3" length="1720029" type="audio/mpeg"/>
+      <guid>2026-04-06-beam-gene-editing-spotlight</guid>
+      <pubDate>Mon, 06 Apr 2026 13:42:00 +0000</pubDate>
+      <itunes:duration>287</itunes:duration>
+      <itunes:summary>Beam's base-editing sickle cell therapy risto-cel publishes landmark NEJM data. Gene therapy competitive landscape analysis. Connections to Calibr's sCAR-T platform, autoimmune CAR-T, and AACR 2026 oncology watch.</itunes:summary>
+    </item>
+
+    <item>
+      <title>Daily Headlines: Neurocrine $2.9B Soleno Buy, Beam NEJM Sickle Cell Data, Immunovant Phase 3 Fail, mRNA Funding Alarm, AACR 2026 Kicks Off</title>
+      <description>Monday biotech and pharma headlines: Neurocrine acquires Soleno for $2.9B (Prader-Willi syndrome), Beam base-editing sickle cell data published in NEJM (31/31 patients pain-free), Immunovant batoclimab fails two Phase 3 thyroid eye disease studies, Alto ALTO-101 fails Phase 2 for schizophrenia cognition, Orca Bio FDA review delayed to July, Pfizer/BioNTech pause COVID vaccine post-marketing study, JAMA study warns mRNA R&D cuts threaten cancer and rare disease research, AACR 2026 opens in San Diego.</description>
+      <enclosure url="https://github.com/andrewsu/calibr-briefing/raw/main/episodes/2026-04-06-pharma-headlines.mp3" length="1007568" type="audio/mpeg"/>
+      <guid>2026-04-06-pharma-headlines</guid>
+      <pubDate>Mon, 06 Apr 2026 13:42:00 +0000</pubDate>
+      <itunes:duration>168</itunes:duration>
+      <itunes:summary>Biotech and pharma headlines for April 6, 2026 — Neurocrine $2.9B Soleno acquisition, Beam NEJM sickle cell milestone, Immunovant Phase 3 failure, mRNA funding concerns, AACR 2026 preview, and more.</itunes:summary>
+    </item>
+
+    <item>
       <title>Spotlight: The Oral GLP-1 Era Is Here — Foundayo's Approval and What It Means for Calibr's Dual-Agonist CMZ371</title>
       <description>Deep dive into the FDA approval of Eli Lilly's Foundayo (orforglipron), the first oral small molecule GLP-1 receptor agonist for weight management. Analysis of the competitive oral incretin landscape — Novo's oral Wegovy, Structure's aleniglipron, Ambrosia's $100M Series B, Kailera's oral ribupatide, and Chinese pharma partnerships. Why the crowding in single-target oral GLP-1 space strengthens Calibr's CMZ371 dual GLP-1R/GIPR oral agonist differentiation. MASH crossover implications and combination strategy opportunities in the $100B+ obesity drug market.</description>
       <enclosure url="https://github.com/andrewsu/calibr-briefing/raw/main/episodes/2026-04-03-foundayo-oral-glp1-spotlight.mp3" length="1987581" type="audio/mpeg"/>
