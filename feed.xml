@@ -12,6 +12,26 @@
     <atom:link href="https://raw.githubusercontent.com/andrewsu/calibr-briefing/main/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>Spotlight: Gilead's $5B Tubulis ADC Acquisition — The ADC Arms Race and What It Means for Calibr's Oncology Pipeline</title>
+      <description>Deep dive into Gilead's acquisition of Munich-based Tubulis for $3.15B upfront ($5B total) to secure a potentially best-in-class ADC candidate and next-generation linker-payload platform. Analysis of the exploding ADC competitive landscape (Pfizer-Seagen, AbbVie-ImmunoGen, AstraZeneca-Daiichi Enhertu), why linker-payload technology commands massive premiums, and direct connections to Calibr's ADC programs (ovarian, NSCLC, SCLC), tri-specific antibody platform, and multi-modal oncology strategy alongside sCAR-T.</description>
+      <enclosure url="https://github.com/andrewsu/calibr-briefing/raw/main/episodes/2026-04-07-gilead-tubulis-adc-spotlight.mp3" length="2044080" type="audio/mpeg"/>
+      <guid>2026-04-07-gilead-tubulis-adc-spotlight</guid>
+      <pubDate>Tue, 07 Apr 2026 13:42:00 +0000</pubDate>
+      <itunes:duration>341</itunes:duration>
+      <itunes:summary>Gilead acquires Tubulis for up to $5B for next-gen ADC platform. Competitive landscape analysis across the ADC arms race. Direct implications for Calibr's ADC programs, tri-specific antibodies, and multi-modal oncology strategy.</itunes:summary>
+    </item>
+
+    <item>
+      <title>Daily Headlines: Gilead $5B Tubulis ADC Deal, Lilly $7.8B Centessa Neuroscience, Amgen SC Tepezza Phase III, Takeda-Denali Split, Lilly-AC Immune Alzheimer's, FDA Warns ImmunityBio</title>
+      <description>Tuesday biotech and pharma headlines: Gilead acquires Tubulis for $3.15B upfront ($5B total) for ADC pipeline, Lilly $6.3-7.8B Centessa acquisition for neuroscience/orexin sleep drugs, Neurocrine $2.9B Soleno deal continues, Takeda ends Denali dementia partnership, Amgen subcutaneous Tepezza Phase III positive, Lilly pays AC Immune $12.5M to expand Alzheimer's tau collab, FDA warns ImmunityBio over Anktiva promotion, Kailera GLP-1 IPO pursuit, Evommune IPO.</description>
+      <enclosure url="https://github.com/andrewsu/calibr-briefing/raw/main/episodes/2026-04-07-pharma-headlines.mp3" length="1050768" type="audio/mpeg"/>
+      <guid>2026-04-07-pharma-headlines</guid>
+      <pubDate>Tue, 07 Apr 2026 13:42:00 +0000</pubDate>
+      <itunes:duration>175</itunes:duration>
+      <itunes:summary>Biotech and pharma headlines for April 7, 2026 — Gilead $5B Tubulis ADC acquisition, Lilly $7.8B Centessa neuroscience deal, Amgen SC Tepezza Phase III, Takeda-Denali split, Lilly-AC Immune Alzheimer's expansion, FDA ImmunityBio warning, and more.</itunes:summary>
+    </item>
+
+    <item>
       <title>Spotlight: Beam's Base-Editing Sickle Cell Data Hits NEJM — What the Gene Therapy Surge Means for Calibr's sCAR-T Platform</title>
       <description>Deep dive into Beam Therapeutics' NEJM publication showing risto-cel base-editing therapy eliminated severe pain crises in all 31 sickle cell patients. Analysis of the competitive gene therapy landscape (Casgevy, Lyfgenia), myeloablative conditioning challenges, and the convergence of gene editing and cell therapy innovation. Connections to Calibr's switchable CAR-T (sCAR-T) platform with AbbVie, the CD19 autoimmune program, and what AACR 2026 in San Diego may reveal for Calibr's oncology pipeline.</description>
       <enclosure url="https://github.com/andrewsu/calibr-briefing/raw/main/episodes/2026-04-06-beam-gene-editing-spotlight.mp3" length="1720029" type="audio/mpeg"/>
