@@ -12,6 +12,26 @@
     <atom:link href="https://raw.githubusercontent.com/andrewsu/calibr-briefing/main/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>Spotlight: ARPA-H's $100M Joint Regeneration Initiative — What Federal Cartilage Repair Funding Means for Calibr's KA34 Program</title>
+      <description>Deep dive into ARPA-H selecting three academic teams to share $100M for clinical trials of experimental cartilage regeneration therapies in osteoarthritis. Analysis of the competitive landscape (cell-based approaches, Biosplice/lorecivivint, growth factor strategies) and why small molecule approaches like Calibr's CIRM-backed KA34 are uniquely positioned. Connections to Calibr's broader regenerative medicine portfolio including CMR316 (lung/IPF), heart regeneration, corneal and retinal programs.</description>
+      <enclosure url="https://github.com/andrewsu/calibr-briefing/raw/main/episodes/2026-04-08-arpa-h-joint-regeneration-spotlight.mp3" length="2121552" type="audio/mpeg"/>
+      <guid>2026-04-08-arpa-h-joint-regeneration-spotlight</guid>
+      <pubDate>Wed, 08 Apr 2026 13:45:00 +0000</pubDate>
+      <itunes:duration>353</itunes:duration>
+      <itunes:summary>ARPA-H funds $100M for joint cartilage regeneration clinical trials. Competitive landscape analysis. Direct implications for Calibr's KA34 small molecule osteoarthritis program and broader regenerative medicine strategy.</itunes:summary>
+    </item>
+
+    <item>
+      <title>Daily Headlines: ARPA-H $100M Joint Regen, Gilead Pivots to Integration, Merck-Terns Repriced, Insmed Brinsupri HS Flop, Novo High-Dose Wegovy Launch, Life Bio $80M Anti-Aging</title>
+      <description>Wednesday biotech and pharma headlines: ARPA-H selects three teams for $100M cartilage regeneration initiative (Calibr KA34 relevance), Gilead shifts from M&amp;A to pipeline integration after three 2026 acquisitions, Merck-Terns $6.7B deal repriced 13% lower on clinical data, Insmed Brinsupri fails midstage HS trial, Novo Nordisk launches high-dose 7.2mg Wegovy in US, Life Biosciences raises $80M for anti-aging gene therapy, Jeito closes $1.2B European biopharma fund, Sidewinder $137M ADC Series B, FDA seeks DTC ad powers, Shah Capital pushes Novavax changes.</description>
+      <enclosure url="https://github.com/andrewsu/calibr-briefing/raw/main/episodes/2026-04-08-pharma-headlines.mp3" length="1131696" type="audio/mpeg"/>
+      <guid>2026-04-08-pharma-headlines</guid>
+      <pubDate>Wed, 08 Apr 2026 13:45:00 +0000</pubDate>
+      <itunes:duration>188</itunes:duration>
+      <itunes:summary>Biotech and pharma headlines for April 8, 2026 — ARPA-H $100M joint regeneration funding, Gilead integration pivot, Merck-Terns repricing, Insmed Brinsupri HS flop, high-dose Wegovy launch, major fundraising rounds, and more.</itunes:summary>
+    </item>
+
+    <item>
       <title>Spotlight: Gilead's $5B Tubulis ADC Acquisition — The ADC Arms Race and What It Means for Calibr's Oncology Pipeline</title>
       <description>Deep dive into Gilead's acquisition of Munich-based Tubulis for $3.15B upfront ($5B total) to secure a potentially best-in-class ADC candidate and next-generation linker-payload platform. Analysis of the exploding ADC competitive landscape (Pfizer-Seagen, AbbVie-ImmunoGen, AstraZeneca-Daiichi Enhertu), why linker-payload technology commands massive premiums, and direct connections to Calibr's ADC programs (ovarian, NSCLC, SCLC), tri-specific antibody platform, and multi-modal oncology strategy alongside sCAR-T.</description>
       <enclosure url="https://github.com/andrewsu/calibr-briefing/raw/main/episodes/2026-04-07-gilead-tubulis-adc-spotlight.mp3" length="2044080" type="audio/mpeg"/>
