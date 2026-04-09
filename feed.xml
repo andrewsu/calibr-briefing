@@ -12,6 +12,26 @@
     <atom:link href="https://raw.githubusercontent.com/andrewsu/calibr-briefing/main/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>Spotlight: The Oral GLP-1 Obesity War — Lilly's Foundayo vs Novo's Wegovy HD and What It Means for Calibr's CMZ371</title>
+      <description>Deep dive into the escalating commercial battle between Eli Lilly and Novo Nordisk over oral and next-gen obesity drugs. Lilly's Foundayo (orforglipron) just won FDA approval while Novo counters with Wegovy HD priced at $399/month. Analysis of the competitive landscape, pricing dynamics, multi-receptor targeting trends, and direct connections to Calibr's CMZ371 oral GLP1R/GIPR bispecific incretin (Phase 1), MASH biologic program, and obesity biologics in discovery.</description>
+      <enclosure url="https://github.com/andrewsu/calibr-briefing/raw/main/episodes/2026-04-09-glp1-oral-obesity-war-spotlight.mp3" length="1977552" type="audio/mpeg"/>
+      <guid>2026-04-09-glp1-oral-obesity-war-spotlight</guid>
+      <pubDate>Thu, 09 Apr 2026 13:45:00 +0000</pubDate>
+      <itunes:duration>330</itunes:duration>
+      <itunes:summary>The oral GLP-1 obesity drug war heats up: Lilly's Foundayo approved, Novo fires back with Wegovy HD pricing. Competitive landscape, multi-receptor trends, and direct implications for Calibr's CMZ371 oral dual incretin and MASH programs.</itunes:summary>
+    </item>
+
+    <item>
+      <title>Daily Headlines: Novo Wegovy HD Undercuts Lilly, Trump 100% Pharma Tariffs, FDA Expedited IND Pathway, Sanofi Lunsekimig Mixed, Q1 IPO Surge, Syneron $150M, Stipple $100M ADC Launch</title>
+      <description>Thursday biotech and pharma headlines: Novo Nordisk launches Wegovy HD at $399/month undercutting Lilly Zepbound, Trump revives 100% pharma tariffs with major loopholes, FDA proposes expedited IND pathway to compete with China, Sanofi lunsekimig hits in asthma/polyps but misses eczema, biotech IPOs slow but Q1 raises hit $1.7B, Syneron Bio $150M Series B with AstraZeneca, Stipple Bio $100M stealth ADC launch, AACR 2026 underway in San Diego.</description>
+      <enclosure url="https://github.com/andrewsu/calibr-briefing/raw/main/episodes/2026-04-09-pharma-headlines.mp3" length="1226304" type="audio/mpeg"/>
+      <guid>2026-04-09-pharma-headlines</guid>
+      <pubDate>Thu, 09 Apr 2026 13:45:00 +0000</pubDate>
+      <itunes:duration>204</itunes:duration>
+      <itunes:summary>Biotech and pharma headlines for April 9, 2026 — Novo Wegovy HD pricing war, Trump pharma tariffs, FDA expedited IND proposal, Sanofi lunsekimig mixed results, Q1 IPO trends, major startup launches, and AACR 2026.</itunes:summary>
+    </item>
+
+    <item>
       <title>Spotlight: ARPA-H's $100M Joint Regeneration Initiative — What Federal Cartilage Repair Funding Means for Calibr's KA34 Program</title>
       <description>Deep dive into ARPA-H selecting three academic teams to share $100M for clinical trials of experimental cartilage regeneration therapies in osteoarthritis. Analysis of the competitive landscape (cell-based approaches, Biosplice/lorecivivint, growth factor strategies) and why small molecule approaches like Calibr's CIRM-backed KA34 are uniquely positioned. Connections to Calibr's broader regenerative medicine portfolio including CMR316 (lung/IPF), heart regeneration, corneal and retinal programs.</description>
       <enclosure url="https://github.com/andrewsu/calibr-briefing/raw/main/episodes/2026-04-08-arpa-h-joint-regeneration-spotlight.mp3" length="2121552" type="audio/mpeg"/>
