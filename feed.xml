@@ -12,6 +12,26 @@
     <atom:link href="https://raw.githubusercontent.com/andrewsu/calibr-briefing/main/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>Spotlight: CAR-T Drives Three Autoimmune Diseases Into Remission — What Multi-Disease Immune Reset Means for Calibr's sCAR-T Program</title>
+      <description>Deep dive into the landmark report of a single CD19-targeted CAR-T infusion driving three separate autoimmune diseases into simultaneous remission. Analysis of the competitive landscape (Kyverna KYV-101, Cabaletta CABA-201, BMS, Gilead/Ouro gamgertamig), why multi-disease efficacy validates the B-cell depletion thesis, and direct connections to Calibr's switchable sCAR-T platform (CLBR001 + SWI019, Phase 1 with AbbVie). Why dose-titratable control via the switch molecule could be the key differentiator for autoimmune applications where safety bars are higher than oncology.</description>
+      <enclosure url="https://github.com/andrewsu/calibr-briefing/raw/main/episodes/2026-04-10-cart-autoimmune-remission-spotlight.mp3" length="2395245" type="audio/mpeg"/>
+      <guid>2026-04-10-cart-autoimmune-remission-spotlight</guid>
+      <pubDate>Fri, 10 Apr 2026 13:40:00 +0000</pubDate>
+      <itunes:duration>399</itunes:duration>
+      <itunes:summary>CAR-T drives three autoimmune diseases into remission simultaneously. Competitive landscape analysis. Direct implications for Calibr's switchable sCAR-T platform with AbbVie — why controllable B-cell depletion could be the differentiator in autoimmune cell therapy.</itunes:summary>
+    </item>
+
+    <item>
+      <title>Daily Headlines: CAR-T Triple Autoimmune Remission, Oricell $110M CAR-T IPO, Lilly Foundayo Launch, Novo Wegovy HD Undercut, Gilead $13B M&A Trifecta, Sidewinder $137M ADCs, Invivyd Measles Antibody</title>
+      <description>Friday biotech and pharma headlines: CAR-T drives three autoimmune diseases into remission in one patient (Calibr sCAR-T relevance), Oricell raises $110M for CAR-T ahead of China IPO, Lilly launches oral GLP-1 pill Foundayo at $149/month vs Novo's oral Wegovy, Novo counters with Wegovy HD at $399/month undercutting Zepbound, Gilead completes $13B acquisition trifecta (Arcellx/Tubulis/Ouro), Sidewinder $137M Series B for bispecific ADCs, Invivyd advances measles antibody VMS063, FDA warns ImmunityBio over misleading Anktiva promotions.</description>
+      <enclosure url="https://github.com/andrewsu/calibr-briefing/raw/main/episodes/2026-04-10-pharma-headlines.mp3" length="1247616" type="audio/mpeg"/>
+      <guid>2026-04-10-pharma-headlines</guid>
+      <pubDate>Fri, 10 Apr 2026 13:40:00 +0000</pubDate>
+      <itunes:duration>208</itunes:duration>
+      <itunes:summary>Biotech and pharma headlines for April 10, 2026 — CAR-T triple autoimmune remission, Oricell CAR-T IPO raise, Lilly Foundayo oral GLP-1 launch, Novo Wegovy HD pricing war, Gilead $13B M&A spree, Sidewinder ADC funding, Invivyd measles antibody, and FDA ImmunityBio warning.</itunes:summary>
+    </item>
+
+    <item>
       <title>Spotlight: The Oral GLP-1 Obesity War — Lilly's Foundayo vs Novo's Wegovy HD and What It Means for Calibr's CMZ371</title>
       <description>Deep dive into the escalating commercial battle between Eli Lilly and Novo Nordisk over oral and next-gen obesity drugs. Lilly's Foundayo (orforglipron) just won FDA approval while Novo counters with Wegovy HD priced at $399/month. Analysis of the competitive landscape, pricing dynamics, multi-receptor targeting trends, and direct connections to Calibr's CMZ371 oral GLP1R/GIPR bispecific incretin (Phase 1), MASH biologic program, and obesity biologics in discovery.</description>
       <enclosure url="https://github.com/andrewsu/calibr-briefing/raw/main/episodes/2026-04-09-glp1-oral-obesity-war-spotlight.mp3" length="1977552" type="audio/mpeg"/>
