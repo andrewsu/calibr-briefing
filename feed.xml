@@ -12,6 +12,26 @@
     <atom:link href="https://raw.githubusercontent.com/andrewsu/calibr-briefing/main/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>Spotlight: Allogene's Off-the-Shelf CAR-T Hits MRD Negativity in Lymphoma — What Allogeneic Progress Means for Calibr's Switchable sCAR-T Platform</title>
+      <description>Deep dive into Allogene Therapeutics reporting that its allogeneic off-the-shelf CAR-T therapy erased minimal residual disease in lymphoma patients. Analysis of the allogeneic vs autologous vs switchable CAR-T competitive landscape, Gilead's $7.8B Arcellx acquisition, the autoimmune CAR-T wave, and direct implications for Calibr's sCAR-T program (CLBR001 + SWI019, Phase 1 with AbbVie). Why dose-titratable control via the switch molecule remains a key differentiator as the field expands.</description>
+      <enclosure url="https://github.com/andrewsu/calibr-briefing/raw/main/episodes/2026-04-13-allogene-allogeneic-cart-spotlight.mp3" length="2286436" type="audio/mpeg"/>
+      <guid>2026-04-13-allogene-allogeneic-cart-spotlight</guid>
+      <pubDate>Mon, 13 Apr 2026 13:40:00 +0000</pubDate>
+      <itunes:duration>294</itunes:duration>
+      <itunes:summary>Allogene's off-the-shelf CAR-T erases residual lymphoma cells. Competitive landscape analysis across allogeneic, autologous, and switchable platforms. Direct implications for Calibr's sCAR-T program with AbbVie — why controllable cell therapy is the differentiator.</itunes:summary>
+    </item>
+
+    <item>
+      <title>Daily Headlines: Revolution RAS Ph3 Win, Allogene Off-Shelf CAR-T, Regeneron $2.1B Radiopharma Deal, Lilly Foundayo Launch, Novo Wegovy HD Pricing War, Gilead $13B M&amp;A Spree, IPO Wave</title>
+      <description>Monday biotech and pharma headlines: Revolution Medicines daraxonrasib hits Phase 3 OS goals in pancreatic cancer (6 months survival benefit), Allogene off-the-shelf CAR-T erases lymphoma MRD (Calibr sCAR-T relevance), Regeneron enters radiopharma via $2.1B Telix deal, Lilly launches oral GLP-1 Foundayo at $149/month, Novo fires back with Wegovy HD at $399/month, Gilead $13B trifecta (Arcellx/Tubulis/Ouro), Seaport Hemab Avalyn IPOs, Ideaya/Servier eye cancer win, BioNTech SynOx FDA paths.</description>
+      <enclosure url="https://github.com/andrewsu/calibr-briefing/raw/main/episodes/2026-04-13-pharma-headlines.mp3" length="1147594" type="audio/mpeg"/>
+      <guid>2026-04-13-pharma-headlines</guid>
+      <pubDate>Mon, 13 Apr 2026 13:40:00 +0000</pubDate>
+      <itunes:duration>140</itunes:duration>
+      <itunes:summary>Biotech and pharma headlines for April 13, 2026 — Revolution RAS Phase 3 pancreatic cancer win, Allogene allogeneic CAR-T lymphoma data, Regeneron radiopharma deal, Lilly Foundayo oral GLP-1 launch, Novo Wegovy HD pricing undercut, Gilead $13B acquisition spree, biotech IPO wave.</itunes:summary>
+    </item>
+
+    <item>
       <title>Spotlight: CAR-T Drives Three Autoimmune Diseases Into Remission — What Multi-Disease Immune Reset Means for Calibr's sCAR-T Program</title>
       <description>Deep dive into the landmark report of a single CD19-targeted CAR-T infusion driving three separate autoimmune diseases into simultaneous remission. Analysis of the competitive landscape (Kyverna KYV-101, Cabaletta CABA-201, BMS, Gilead/Ouro gamgertamig), why multi-disease efficacy validates the B-cell depletion thesis, and direct connections to Calibr's switchable sCAR-T platform (CLBR001 + SWI019, Phase 1 with AbbVie). Why dose-titratable control via the switch molecule could be the key differentiator for autoimmune applications where safety bars are higher than oncology.</description>
       <enclosure url="https://github.com/andrewsu/calibr-briefing/raw/main/episodes/2026-04-10-cart-autoimmune-remission-spotlight.mp3" length="2395245" type="audio/mpeg"/>
