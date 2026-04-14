@@ -12,6 +12,26 @@
     <atom:link href="https://raw.githubusercontent.com/andrewsu/calibr-briefing/main/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>Spotlight: Gilead's $13B Transformation — What Three Rapid-Fire Acquisitions in Cell Therapy, ADCs, and Autoimmune Mean for Calibr's Pipeline</title>
+      <description>Deep dive into Gilead Sciences' nearly $13 billion acquisition spree: Arcellx ($7.8B, BCMA CAR-T for multiple myeloma), Ouro Medicines ($1.7B, autoimmune), and Tubulis ($3.1B, next-gen ADCs). Analysis of how each deal validates Calibr's pipeline positioning — sCAR-T switchable platform vs fixed CAR-T, autoimmune B-cell targeting, ADC discovery programs, and CDK2 inhibition. Why big pharma's billions are flowing to exactly the areas where Calibr already has active programs.</description>
+      <enclosure url="https://github.com/andrewsu/calibr-briefing/raw/main/episodes/2026-04-14-gilead-transformation-spotlight.mp3" length="2207585" type="audio/mpeg"/>
+      <guid>2026-04-14-gilead-transformation-spotlight</guid>
+      <pubDate>Tue, 14 Apr 2026 13:40:00 +0000</pubDate>
+      <itunes:duration>256</itunes:duration>
+      <itunes:summary>Gilead spends $13B on Arcellx (CAR-T), Tubulis (ADCs), and Ouro (autoimmune). Each acquisition validates Calibr pipeline areas — switchable sCAR-T, ADC discovery, autoimmune cell therapy, and CDK2 inhibition. Big pharma confirms the targets; Calibr has the differentiated approaches.</itunes:summary>
+    </item>
+
+    <item>
+      <title>Daily Headlines: Lilly Buys CrossBridge ADCs, Foundayo Oral GLP-1 Launch, Novo Wegovy HD Pricing War, Gilead $13B M&amp;A, Travere FSGS Approval, Invivyd Measles Antibody, Kailera $528M IPO</title>
+      <description>Tuesday biotech and pharma headlines: Lilly acquires ADC specialist CrossBridge Bio for $300M, Lilly launches oral GLP-1 Foundayo at $149/month vs Novo's Wegovy, Novo undercuts with Wegovy HD at $399/month, Gilead's $13B transformation (Arcellx/Tubulis/Ouro), Travere nabs first-ever FDA FSGS approval for Filspari, Invivyd develops measles antibody VMS063, Kailera plans $528M obesity IPO, Avalyn IPO for inhaled IPF drugs, Boehringer and Amgen scrap immunology assets.</description>
+      <enclosure url="https://github.com/andrewsu/calibr-briefing/raw/main/episodes/2026-04-14-pharma-headlines.mp3" length="1085036" type="audio/mpeg"/>
+      <guid>2026-04-14-pharma-headlines</guid>
+      <pubDate>Tue, 14 Apr 2026 13:40:00 +0000</pubDate>
+      <itunes:duration>124</itunes:duration>
+      <itunes:summary>Biotech and pharma headlines for April 14, 2026 — Lilly buys CrossBridge Bio ADCs, Foundayo oral GLP-1 launches, Novo Wegovy HD pricing undercut, Gilead $13B M&amp;A spree, Travere FSGS first approval, Invivyd measles antibody, Kailera $528M IPO, Avalyn IPF IPO, Boehringer/Amgen scrap immunology assets.</itunes:summary>
+    </item>
+
+    <item>
       <title>Spotlight: Allogene's Off-the-Shelf CAR-T Hits MRD Negativity in Lymphoma — What Allogeneic Progress Means for Calibr's Switchable sCAR-T Platform</title>
       <description>Deep dive into Allogene Therapeutics reporting that its allogeneic off-the-shelf CAR-T therapy erased minimal residual disease in lymphoma patients. Analysis of the allogeneic vs autologous vs switchable CAR-T competitive landscape, Gilead's $7.8B Arcellx acquisition, the autoimmune CAR-T wave, and direct implications for Calibr's sCAR-T program (CLBR001 + SWI019, Phase 1 with AbbVie). Why dose-titratable control via the switch molecule remains a key differentiator as the field expands.</description>
       <enclosure url="https://github.com/andrewsu/calibr-briefing/raw/main/episodes/2026-04-13-allogene-allogeneic-cart-spotlight.mp3" length="2286436" type="audio/mpeg"/>
