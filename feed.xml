@@ -12,6 +12,26 @@
     <atom:link href="https://raw.githubusercontent.com/andrewsu/calibr-briefing/main/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>Spotlight: Spyre's Best-in-Class IBD Data — Why the Immunomodulatory Arms Race Makes Calibr's Regenerative GLP-2 Approach More Valuable</title>
+      <description>Deep dive into Spyre Therapeutics' Phase 2 SPY001 data in ulcerative colitis — 40% remission rate, 51% endoscopic improvement, shares up 25%. Analysis of the crowded IBD immunomodulatory landscape (alpha-4-beta-7, TL1A, IL-23) and why Calibr's CLF065 long-acting GLP-2 analog occupies a uniquely differentiated position: regenerating the intestinal barrier rather than suppressing the immune system. Potential for combination therapy and the growing IBD market opportunity.</description>
+      <enclosure url="https://github.com/andrewsu/calibr-briefing/raw/main/episodes/2026-04-15-spyre-ibd-spotlight.mp3" length="2031561" type="audio/mpeg"/>
+      <guid>2026-04-15-spyre-ibd-spotlight</guid>
+      <pubDate>Wed, 15 Apr 2026 13:40:00 +0000</pubDate>
+      <itunes:duration>247</itunes:duration>
+      <itunes:summary>Spyre's SPY001 posts best-in-class Phase 2 UC data (40% remission, 51% endoscopic improvement). The IBD immunomodulatory lane is crowding fast. Why Calibr's CLF065 regenerative GLP-2 approach is orthogonal — and potentially complementary — to every competitor in the space.</itunes:summary>
+    </item>
+
+    <item>
+      <title>Daily Headlines: Spyre IBD Best-in-Class Data, Oricell $110M Solid Tumor CAR-T, Lilly Foundayo GLP-1 Pill Launch, J&amp;J Icotyde Psoriasis, Beeline $300M Stealth Exit, Novo-OpenAI, Replimune FDA Reject</title>
+      <description>Wednesday biotech and pharma headlines: Spyre SPY001 ulcerative colitis Phase 2 hits 40% remission (shares +25%), Oricell closes $110M pre-IPO for solid tumor CAR-T and in vivo CAR-T tech, Lilly launches oral GLP-1 Foundayo at $149/month vs Novo Wegovy pill, J&amp;J pushes Icotyde psoriasis pill launch, Beeline Medicines exits stealth with $300M from Bain and 5 BMS programs, Novo partners with OpenAI, FDA rejects Replimune RP1 again, Obsidian goes public, Neomorph raises $100M.</description>
+      <enclosure url="https://github.com/andrewsu/calibr-briefing/raw/main/episodes/2026-04-15-pharma-headlines.mp3" length="1086117" type="audio/mpeg"/>
+      <guid>2026-04-15-pharma-headlines</guid>
+      <pubDate>Wed, 15 Apr 2026 13:40:00 +0000</pubDate>
+      <itunes:duration>132</itunes:duration>
+      <itunes:summary>Biotech and pharma headlines for April 15, 2026 — Spyre IBD best-in-class Phase 2 data, Oricell $110M solid tumor CAR-T round, Lilly Foundayo oral GLP-1 launch, J&amp;J Icotyde psoriasis pill, Beeline $300M stealth exit, Novo-OpenAI partnership, Replimune FDA rejection, Obsidian public via reverse merger, Neomorph $100M molecular glue Series B.</itunes:summary>
+    </item>
+
+    <item>
       <title>Spotlight: Gilead's $13B Transformation — What Three Rapid-Fire Acquisitions in Cell Therapy, ADCs, and Autoimmune Mean for Calibr's Pipeline</title>
       <description>Deep dive into Gilead Sciences' nearly $13 billion acquisition spree: Arcellx ($7.8B, BCMA CAR-T for multiple myeloma), Ouro Medicines ($1.7B, autoimmune), and Tubulis ($3.1B, next-gen ADCs). Analysis of how each deal validates Calibr's pipeline positioning — sCAR-T switchable platform vs fixed CAR-T, autoimmune B-cell targeting, ADC discovery programs, and CDK2 inhibition. Why big pharma's billions are flowing to exactly the areas where Calibr already has active programs.</description>
       <enclosure url="https://github.com/andrewsu/calibr-briefing/raw/main/episodes/2026-04-14-gilead-transformation-spotlight.mp3" length="2207585" type="audio/mpeg"/>
