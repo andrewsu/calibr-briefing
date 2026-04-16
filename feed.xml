@@ -12,6 +12,26 @@
     <atom:link href="https://raw.githubusercontent.com/andrewsu/calibr-briefing/main/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>Spotlight: Circio-Acuitas In Vivo CAR-T via Circular RNA — What LNP-Delivered Transient CAR Expression Means for Calibr's Switchable sCAR-T Platform</title>
+      <description>Deep dive into the Circio Biotechnologies and Acuitas Therapeutics partnership to develop in vivo CAR-T therapy using circular RNA delivered via lipid nanoparticles. Analysis of circular RNA's advantages over linear mRNA (longer expression, exonuclease resistance), comparison of transient vs switchable controllability approaches, the expanding autoimmune CAR-T landscape, and direct implications for Calibr's sCAR-T platform (CLBR001 + SWI019, Phase 1 with AbbVie). Why the switch mechanism could complement in vivo delivery for the ultimate injectable, controllable CAR-T.</description>
+      <enclosure url="https://github.com/andrewsu/calibr-briefing/raw/main/episodes/2026-04-16-circio-acuitas-invivo-cart-spotlight.mp3" length="2219628" type="audio/mpeg"/>
+      <guid>2026-04-16-circio-acuitas-invivo-cart-spotlight</guid>
+      <pubDate>Thu, 16 Apr 2026 13:40:00 +0000</pubDate>
+      <itunes:duration>265</itunes:duration>
+      <itunes:summary>Circio and Acuitas partner on circular RNA in vivo CAR-T via lipid nanoparticles. Transient CAR expression vs Calibr's switchable control — two philosophies solving the same safety problem. Why these approaches could converge, and what it means for sCAR-T positioning in oncology and autoimmune.</itunes:summary>
+    </item>
+
+    <item>
+      <title>Daily Headlines: Circio-Acuitas In Vivo CAR-T, J&amp;J Q1 Beat, Biotech Funding Slump, Novartis CEO Joins Anthropic Board, Aligos $445M HPV Deal, FDA Peptide Advisory, Gilead HIV Access Criticism</title>
+      <description>Thursday biotech and pharma headlines: Circio and Acuitas partner on circular RNA in vivo CAR-T therapy (Calibr sCAR-T relevance), J&amp;J beats Q1 earnings on Darzalex and Tremfya strength, early-stage biotech funding slumps toward post-pandemic low, Novartis CEO Vas Narasimhan joins Anthropic AI board, Amazon launches Bio Discovery AI platform, Aligos sells China HPV drug rights to Amoytop for $445M, FDA advisory committee weighs unapproved peptide action, MSF criticizes Gilead Yeztugo HIV access plan, Daiichi Sankyo plots $1.5B consumer health sale to Suntory.</description>
+      <enclosure url="https://github.com/andrewsu/calibr-briefing/raw/main/episodes/2026-04-16-pharma-headlines.mp3" length="1022580" type="audio/mpeg"/>
+      <guid>2026-04-16-pharma-headlines</guid>
+      <pubDate>Thu, 16 Apr 2026 13:40:00 +0000</pubDate>
+      <itunes:duration>120</itunes:duration>
+      <itunes:summary>Biotech and pharma headlines for April 16, 2026 — Circio-Acuitas in vivo CAR-T circular RNA partnership, J&amp;J Q1 earnings beat, biotech early-stage funding slump, Novartis CEO joins Anthropic board, Amazon Bio Discovery AI launch, Aligos $445M HPV deal, FDA peptide advisory, Gilead HIV access criticism, Daiichi Sankyo consumer health sale.</itunes:summary>
+    </item>
+
+    <item>
       <title>Spotlight: Spyre's Best-in-Class IBD Data — Why the Immunomodulatory Arms Race Makes Calibr's Regenerative GLP-2 Approach More Valuable</title>
       <description>Deep dive into Spyre Therapeutics' Phase 2 SPY001 data in ulcerative colitis — 40% remission rate, 51% endoscopic improvement, shares up 25%. Analysis of the crowded IBD immunomodulatory landscape (alpha-4-beta-7, TL1A, IL-23) and why Calibr's CLF065 long-acting GLP-2 analog occupies a uniquely differentiated position: regenerating the intestinal barrier rather than suppressing the immune system. Potential for combination therapy and the growing IBD market opportunity.</description>
       <enclosure url="https://github.com/andrewsu/calibr-briefing/raw/main/episodes/2026-04-15-spyre-ibd-spotlight.mp3" length="2031561" type="audio/mpeg"/>
