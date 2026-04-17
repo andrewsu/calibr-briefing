@@ -12,6 +12,26 @@
     <atom:link href="https://raw.githubusercontent.com/andrewsu/calibr-briefing/main/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>Spotlight: In Vivo CAR-T at an Inflection Point — AstraZeneca's ESO-T01 Safety Data, Billion-Dollar Acquisitions, and Why Calibr's Switchable Architecture Matters More Than Ever</title>
+      <description>Deep dive into the in vivo CAR-T competitive landscape as it reaches an inflection point. AstraZeneca's acquired ESO-T01 lentiviral program published Nature Medicine data showing strong efficacy (4/5 objective responses, 3 complete remissions) but serious toxicities in all 5 patients, including a death and a novel two-phase immune activation pattern. Analysis of the billion-dollar acquisition spree (AstraZeneca-EsoBiotec $1B, Lilly-Orna $2.4B, AbbVie and BMS deals), the Circio-Acuitas circular RNA LNP approach, RNA startups entering the autoimmune clinic, and why Calibr's sCAR-T switchable platform (CLBR001 + SWI019) occupies a uniquely defensible position with built-in dose-titratable safety control.</description>
+      <enclosure url="https://github.com/andrewsu/calibr-briefing/raw/main/episodes/2026-04-17-invivo-cart-landscape-spotlight.mp3" length="2484964" type="audio/mpeg"/>
+      <guid>2026-04-17-invivo-cart-landscape-spotlight</guid>
+      <pubDate>Fri, 17 Apr 2026 13:40:00 +0000</pubDate>
+      <itunes:duration>332</itunes:duration>
+      <itunes:summary>The in vivo CAR-T field hits an inflection point. AstraZeneca's ESO-T01 shows strong efficacy but alarming toxicities. Billions pouring in from Lilly, AbbVie, BMS. Circio-Acuitas circular RNA partnership and autoimmune pivots. Why Calibr's switchable sCAR-T platform has the built-in safety control the in vivo field is still searching for.</itunes:summary>
+    </item>
+
+    <item>
+      <title>Daily Headlines: Kailera Record $625M Obesity IPO, Revolution Medicines $2B Raise on Pancreatic Cancer Data, MeiraGTx Reacquires J&amp;J Gene Therapy, Replimune Cuts 63 Jobs, Anti-Amyloid Alzheimer's Drugs Questioned, Lilly Foundayo Update, In Vivo CAR-T Field Heats Up, Aligos $445M HBV Deal</title>
+      <description>Friday biotech and pharma headlines: Kailera sets new benchmark with $625M obesity IPO, Revolution Medicines raises $2B after pancreatic cancer drug shows patients live nearly twice as long, MeiraGTx reacquires bota-vec gene therapy from J&amp;J and raises $100M, Replimune cuts 63 staff after second FDA rejection of RP1 melanoma therapy, new report questions anti-amyloid Alzheimer's drug efficacy, Lilly provides additional Foundayo safety data to FDA, in vivo CAR-T competitive landscape mapped in Pharmaceutical Technology feature, Aligos sells China HBV rights to Amoytop for $445M.</description>
+      <enclosure url="https://github.com/andrewsu/calibr-briefing/raw/main/episodes/2026-04-17-pharma-headlines.mp3" length="1098329" type="audio/mpeg"/>
+      <guid>2026-04-17-pharma-headlines</guid>
+      <pubDate>Fri, 17 Apr 2026 13:40:00 +0000</pubDate>
+      <itunes:duration>145</itunes:duration>
+      <itunes:summary>Biotech and pharma headlines for April 17, 2026 — Kailera record $625M obesity IPO, Revolution Medicines $2B raise on pancreatic cancer breakthrough, MeiraGTx reacquires J&amp;J gene therapy, Replimune layoffs after FDA rejection, anti-amyloid Alzheimer's efficacy questioned, Lilly Foundayo update, in vivo CAR-T field overview, Aligos $445M HBV deal.</itunes:summary>
+    </item>
+
+    <item>
       <title>Spotlight: Circio-Acuitas In Vivo CAR-T via Circular RNA — What LNP-Delivered Transient CAR Expression Means for Calibr's Switchable sCAR-T Platform</title>
       <description>Deep dive into the Circio Biotechnologies and Acuitas Therapeutics partnership to develop in vivo CAR-T therapy using circular RNA delivered via lipid nanoparticles. Analysis of circular RNA's advantages over linear mRNA (longer expression, exonuclease resistance), comparison of transient vs switchable controllability approaches, the expanding autoimmune CAR-T landscape, and direct implications for Calibr's sCAR-T platform (CLBR001 + SWI019, Phase 1 with AbbVie). Why the switch mechanism could complement in vivo delivery for the ultimate injectable, controllable CAR-T.</description>
       <enclosure url="https://github.com/andrewsu/calibr-briefing/raw/main/episodes/2026-04-16-circio-acuitas-invivo-cart-spotlight.mp3" length="2219628" type="audio/mpeg"/>
