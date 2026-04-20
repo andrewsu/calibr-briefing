@@ -12,6 +12,26 @@
     <atom:link href="https://raw.githubusercontent.com/andrewsu/calibr-briefing/main/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>Spotlight: Lilly Acquires Kelonia for $3.25B — In Vivo CAR-T Becomes a $15B+ Big Pharma Priority and Why Calibr's Switchable Architecture May Be the Missing Piece</title>
+      <description>Deep dive into Eli Lilly's $3.25B acquisition of Kelonia Therapeutics (up to $7B total) for in vivo CAR-T cell therapies. Analysis of the exploding in vivo CAR-T competitive landscape: Lilly (Orna + Kelonia), AstraZeneca (EsoBiotec), AbbVie (Calibr sCAR-T), BMS, and emerging players CREATE Medicines, Immunofoco, and Circio-Acuitas. Comparison of technological approaches — mRNA-LNP, viral vector, circular RNA, and switchable CAR architectures. Why the central unsolved problem is safety control, and how Calibr's CLBR001 + SWI019 switch mechanism could be the answer the field needs. AACR 2026 data roundup including CREATE's RetroT platform, Cabaletta's autoimmune CAR-T without preconditioning, and HLB solid tumor data.</description>
+      <enclosure url="https://github.com/andrewsu/calibr-briefing/raw/main/episodes/2026-04-20-lilly-kelonia-invivo-cart-spotlight.mp3" length="2447220" type="audio/mpeg"/>
+      <guid>2026-04-20-lilly-kelonia-invivo-cart-spotlight</guid>
+      <pubDate>Mon, 20 Apr 2026 13:45:00 +0000</pubDate>
+      <itunes:duration>309</itunes:duration>
+      <itunes:summary>Lilly acquires Kelonia for $3.25B upfront to advance in vivo CAR-T. Total big pharma investment in in vivo CAR-T now exceeds $15B. Four technological approaches compared. The central safety control problem remains unsolved — and Calibr's switchable sCAR-T platform may hold the key. Plus AACR 2026 in vivo CAR-T data roundup.</itunes:summary>
+    </item>
+
+    <item>
+      <title>Daily Headlines: Lilly Acquires Kelonia $3.25B In Vivo CAR-T, Novo Nordisk Etavopivat Phase 3 Win in Sickle Cell, AstraZeneca Tozorakimab Third COPD Phase 3 Win, AACR In Vivo CAR-T Data Explosion, Trump Psychedelics EO, FDA Eases Peptide Restrictions, Agenus Trial Flop, Roche New Elevidys Trial</title>
+      <description>Monday biotech and pharma headlines: Lilly acquires Kelonia Therapeutics for $3.25B upfront (up to $7B) for in vivo CAR-T, Novo Nordisk's etavopivat hits both Phase 3 endpoints in sickle cell disease with regulatory filing planned for late 2026, AstraZeneca's tozorakimab (IL-33 inhibitor) achieves third Phase 3 COPD win in MIRANDA trial, AACR buzzes with in vivo CAR-T data from CREATE Medicines and Immunofoco, Trump orders FDA to fast-track psychedelic drug reviews, FDA moves to ease restrictions on 12 peptides under Kennedy MAHA agenda, Agenus cancer trial posts 0% response rate, Roche launches new Elevidys Phase 3 for Duchenne after European rejection.</description>
+      <enclosure url="https://github.com/andrewsu/calibr-briefing/raw/main/episodes/2026-04-20-pharma-headlines.mp3" length="1333426" type="audio/mpeg"/>
+      <guid>2026-04-20-pharma-headlines</guid>
+      <pubDate>Mon, 20 Apr 2026 13:45:00 +0000</pubDate>
+      <itunes:duration>152</itunes:duration>
+      <itunes:summary>Biotech and pharma headlines for April 20, 2026 — Lilly acquires Kelonia $3.25B for in vivo CAR-T, Novo Nordisk sickle cell Phase 3 win, AstraZeneca third COPD Phase 3 win, AACR in vivo CAR-T data from CREATE and Immunofoco, Trump psychedelics EO, FDA peptide easing, Agenus trial flop, Roche new Elevidys trial.</itunes:summary>
+    </item>
+
+    <item>
       <title>Spotlight: In Vivo CAR-T at an Inflection Point — AstraZeneca's ESO-T01 Safety Data, Billion-Dollar Acquisitions, and Why Calibr's Switchable Architecture Matters More Than Ever</title>
       <description>Deep dive into the in vivo CAR-T competitive landscape as it reaches an inflection point. AstraZeneca's acquired ESO-T01 lentiviral program published Nature Medicine data showing strong efficacy (4/5 objective responses, 3 complete remissions) but serious toxicities in all 5 patients, including a death and a novel two-phase immune activation pattern. Analysis of the billion-dollar acquisition spree (AstraZeneca-EsoBiotec $1B, Lilly-Orna $2.4B, AbbVie and BMS deals), the Circio-Acuitas circular RNA LNP approach, RNA startups entering the autoimmune clinic, and why Calibr's sCAR-T switchable platform (CLBR001 + SWI019) occupies a uniquely defensible position with built-in dose-titratable safety control.</description>
       <enclosure url="https://github.com/andrewsu/calibr-briefing/raw/main/episodes/2026-04-17-invivo-cart-landscape-spotlight.mp3" length="2484964" type="audio/mpeg"/>
