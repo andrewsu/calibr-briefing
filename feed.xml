@@ -12,6 +12,26 @@
     <atom:link href="https://raw.githubusercontent.com/andrewsu/calibr-briefing/main/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>Spotlight: The End of the TIGIT Dream — Gilead-Arcus Phase 3 Failure, the Multi-Billion Dollar Checkpoint Lesson, and Why Calibr's STING Agonist and sCAR-T Represent the Real Next Wave</title>
+      <description>Deep dive into Gilead loosening ties with Arcus Biosciences after their TIGIT inhibitor failed Phase 3, marking what may be the definitive end of the TIGIT checkpoint hypothesis. Analysis of the multi-billion dollar industry bet on TIGIT (Roche tiragolumab, BMS, Merck, Gilead-Arcus), why the biology proved more complex than the PD-1 analogy suggested, and the TIGIT-DNAM-1-CD96 receptor complexity. What this means for immuno-oncology strategy: the next breakthroughs will come from approaches that change the fundamental immunological equation — STING agonists, engineered cell therapies, bispecifics, and ADCs — not checkpoint stacking. Direct connections to Calibr's CMR215 STING agonist (intravesical, bladder cancer) and sCAR-T platform.</description>
+      <enclosure url="https://github.com/andrewsu/calibr-briefing/raw/main/episodes/2026-04-21-tigit-failure-spotlight.mp3" length="2521891" type="audio/mpeg"/>
+      <guid>2026-04-21-tigit-failure-spotlight</guid>
+      <pubDate>Tue, 21 Apr 2026 13:41:00 +0000</pubDate>
+      <itunes:duration>307</itunes:duration>
+      <itunes:summary>Gilead-Arcus TIGIT Phase 3 failure may close the book on one of immuno-oncology's biggest bets. Multi-billion dollar industry lesson on checkpoint combination limits. Why the next wave of cancer immunotherapy — STING agonists, CAR-T, bispecifics — matters more than ever. Direct implications for Calibr's CMR215 and sCAR-T programs.</itunes:summary>
+    </item>
+
+    <item>
+      <title>Daily Headlines: Gilead-Arcus TIGIT Phase 3 Failure, Replimune Sheds 60% Workforce After FDA Rejection, Flagship Launches Serif DNA Medicines, Biogen $850M TJ China Deal, Sanofi COVID Shot Tops Moderna Safety, FDA Warns ImmunityBio, GSK Blenrep China Approval, Boehringer AI Center London</title>
+      <description>Tuesday biotech and pharma headlines: Gilead loosens ties with Arcus after TIGIT dream ends in Phase 3 failure, Replimune sheds 60% of workforce after second FDA rejection of melanoma drug RP1, Flagship Pioneering launches Serif with $50M for new DNA drug class, Biogen inks $850M biobucks deal with TJ for China antibody rights, Sanofi Nuvaxovid tops Moderna mNexspike in COVID safety trial, FDA warns ImmunityBio over misleading Anktiva podcast, GSK Blenrep approved in China, Boehringer Ingelheim opens AI/ML center in London.</description>
+      <enclosure url="https://github.com/andrewsu/calibr-briefing/raw/main/episodes/2026-04-21-pharma-headlines.mp3" length="1151063" type="audio/mpeg"/>
+      <guid>2026-04-21-pharma-headlines</guid>
+      <pubDate>Tue, 21 Apr 2026 13:41:00 +0000</pubDate>
+      <itunes:duration>138</itunes:duration>
+      <itunes:summary>Biotech and pharma headlines for April 21, 2026 — Gilead-Arcus TIGIT Phase 3 failure, Replimune 60% layoffs after FDA rejection, Flagship launches Serif DNA medicines, Biogen $850M TJ China deal, Sanofi COVID tops Moderna safety, FDA warns ImmunityBio, GSK Blenrep China approval, Boehringer AI center.</itunes:summary>
+    </item>
+
+    <item>
       <title>Spotlight: Lilly Acquires Kelonia for $3.25B — In Vivo CAR-T Becomes a $15B+ Big Pharma Priority and Why Calibr's Switchable Architecture May Be the Missing Piece</title>
       <description>Deep dive into Eli Lilly's $3.25B acquisition of Kelonia Therapeutics (up to $7B total) for in vivo CAR-T cell therapies. Analysis of the exploding in vivo CAR-T competitive landscape: Lilly (Orna + Kelonia), AstraZeneca (EsoBiotec), AbbVie (Calibr sCAR-T), BMS, and emerging players CREATE Medicines, Immunofoco, and Circio-Acuitas. Comparison of technological approaches — mRNA-LNP, viral vector, circular RNA, and switchable CAR architectures. Why the central unsolved problem is safety control, and how Calibr's CLBR001 + SWI019 switch mechanism could be the answer the field needs. AACR 2026 data roundup including CREATE's RetroT platform, Cabaletta's autoimmune CAR-T without preconditioning, and HLB solid tumor data.</description>
       <enclosure url="https://github.com/andrewsu/calibr-briefing/raw/main/episodes/2026-04-20-lilly-kelonia-invivo-cart-spotlight.mp3" length="2447220" type="audio/mpeg"/>
